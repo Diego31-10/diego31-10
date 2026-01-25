@@ -25,6 +25,8 @@ Desarrollador Full Stack especializado en aplicaciones móviles y web modernas. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=diego31-10&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego31-10&layout=compact&theme=radical)
+
 ## 🔧 Proyectos Destacados
 
 ### 🚌 [TecniBus](https://github.com/diego31-10/tecnibus)
@@ -37,7 +39,7 @@ Sistema de gestión de transporte escolar con:
 ## 📫 Contacto
 
 - **Email**: diegoantv31@gmail.com
-- **X (Twitter)**: [Diegraal]([https://github.com/diego31-10](https://x.com/Diegraal))
+- **X (Twitter)**: [Diegraal](https://x.com/Diegraal)
 
 ---
 
