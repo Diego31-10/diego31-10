@@ -37,7 +37,7 @@ Sistema de gestión de transporte escolar con:
 ## 📫 Contacto
 
 - **Email**: diegoantv31@gmail.com
-- **GitHub**: [@diego31-10](https://github.com/diego31-10)
+- **X (Twitter)**: [Diegraal]([https://github.com/diego31-10](https://x.com/Diegraal))
 
 ---
 
