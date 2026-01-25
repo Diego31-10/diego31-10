@@ -1,46 +1,107 @@
-# 👋 Hola, soy Diego
+<div align="center">
 
-## 🚀 Sobre mí
+<!-- Banner Animado -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70A8D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%C2%A1Hola!+Soy+Diego;Desarrollador+Full+Stack;Especialista+en+React+Native+%26+Supabase;Creando+TecniBus" alt="Typing SVG" />
 
-Desarrollador Full Stack especializado en aplicaciones móviles y web modernas. Apasionado por crear soluciones tecnológicas eficientes y escalables.
+<br/>
 
-## 💻 Stack Tecnológico
+<!-- Badges de Tech Stack -->
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 
-### Frontend & Mobile
-- **React Native** + **Expo** - Desarrollo de apps móviles multiplataforma
-- **TypeScript** - Tipado fuerte para código robusto
-- **NativeWind** (Tailwind CSS) - Estilos modernos y responsivos
+<br/><br/>
 
-### Backend & Database
-- **Supabase** - Auth, PostgreSQL, RLS, Edge Functions
-- **PostgreSQL** - Base de datos relacional
-- **Deno** - Runtime para Edge Functions
+</div>
 
-### Herramientas & DevOps
-- **Git** & **GitHub** - Control de versiones
-- **Expo Router** - Navegación file-based
-- **Claude Code** - Desarrollo asistido por IA
+<!-- Sección Principal: Layout Pro -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+### 👨‍💻 Sobre Mí
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diego31-10&show_icons=true&theme=radical)
+Desarrollador Full Stack con experiencia en **aplicaciones móviles multiplataforma**. Actualmente liderando el desarrollo de **TecniBus**, un sistema integral de gestión de transporte escolar.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego31-10&layout=compact&theme=radical)
+🎯 **Especializado en:**
+- Arquitectura serverless con Supabase
+- Apps React Native de alto rendimiento
+- Sistemas con autenticación por roles
+- Edge Functions y PostgreSQL avanzado
 
-## 🔧 Proyectos Destacados
+💡 **Filosofía:** Código limpio, tipado fuerte y arquitectura escalable.
 
-### 🚌 [TecniBus](https://github.com/diego31-10/tecnibus)
-Sistema de gestión de transporte escolar con:
-- Autenticación por roles (Admin, Padre, Chofer)
-- Gestión de rutas y paradas
-- Panel administrativo completo
-- Arquitectura serverless con Edge Functions
+</td>
+<td width="50%" valign="top">
 
-## 📫 Contacto
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego31-10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
-- **Email**: diegoantv31@gmail.com
-- **X (Twitter)**: [Diegraal](https://x.com/Diegraal)
+</td>
+</tr>
+</table>
+
+<!-- Estadísticas Dinámicas -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=diego31-10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F70A8D&icon_color=F70A8D&text_color=FFFFFF" alt="GitHub Stats" width="495"/>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diego31-10&theme=radical&hide_border=true&background=0D1117&stroke=F70A8D&ring=F70A8D&fire=F70A8D&currStreakLabel=F70A8D" alt="GitHub Streak" width="495"/>
+
+</div>
+
+<!-- Animación Snake -->
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/diego31-10/diego31-10/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-⭐️ From [diego31-10](https://github.com/diego31-10)
+<!-- Sección TecniBus -->
+<div align="center">
+
+## 🚌 Proyecto Destacado: TecniBus
+
+<img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="In Progress"/>
+
+**Sistema de Gestión de Transporte Escolar** con arquitectura moderna y escalable.
+
+### 🔥 Características Principales
+
+🔐 **Autenticación Multi-Rol** → Admin, Padres, Choferes  
+📍 **Gestión de Rutas GPS** → Paradas y asignaciones dinámicas  
+⚡ **Edge Functions** → Operaciones seguras serverless  
+🎨 **UI/UX Moderna** → NativeWind + Componentes reutilizables  
+🛡️ **Row Level Security** → Máxima seguridad en datos
+
+[![Ver Repositorio](https://img.shields.io/badge/GitHub-TecniBus-F70A8D?style=for-the-badge&logo=github)](https://github.com/diego31-10/tecnibus)
+
+</div>
+
+---
+
+<!-- Footer: Contacto -->
+<div align="center">
+
+## 📫 Let's Connect!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoantv31@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego31-10)
+
+<br/>
+
+**⭐️ From [diego31-10](https://github.com/diego31-10) with 💜**
+
+<img src="https://komarev.com/ghpvc/?username=diego31-10&style=for-the-badge&color=F70A8D" alt="Profile Views"/>
+
+</div>
