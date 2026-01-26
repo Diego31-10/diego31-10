@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Animado -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=500&color=F70A8D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%C2%A1Hola!+Soy+Diego;Desarrollador+Full+Stack;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=500&color=F70A8D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%C2%A1Hola!+Soy+Diego;Desarrollador+Full+Stack;" alt="Typing SVG" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Desarrollador Full Stack con experiencia en **aplicaciones móviles multiplataforma**. Actualmente liderando el desarrollo de **TecniBus**, un sistema integral de gestión de transporte escolar.
+Desarrollador Full Stack con experiencia en **aplicaciones móviles multiplataforma**. Y apasionado por finanzas y economía. <br> Actualmente liderando el desarrollo de **TecniBus**, un sistema integral de gestión de transporte escolar.
 
 🎯 **Especializado en:**
 - Arquitectura serverless con Supabase
