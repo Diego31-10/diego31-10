@@ -78,17 +78,7 @@ Desarrollador Full Stack con experiencia en **aplicaciones móviles multiplatafo
 <!-- Footer: Contacto -->
 <div align="center">
 
-## 📫 Let's Connect!
 
-<a href="mailto:diegoantv31@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<a href="https://x.com/Diegraal" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-
-<br/>
 
 **⭐️ From [diego31-10](https://github.com/diego31-10) with 💜**
 
