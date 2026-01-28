@@ -21,7 +21,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Desarrollador Full Stack con experiencia en **aplicaciones móviles multiplataforma**. Y apasionado por finanzas y economía. <br> Actualmente liderando el desarrollo de **TecniBus**, un sistema integral de gestión de transporte escolar.
+Desarrollador Full Stack con experiencia en **aplicaciones móviles multiplataforma**. Y apasionado por la tecnología. <br> Actualmente liderando el desarrollo de **TecniBus**, un sistema integral de gestión de transporte escolar.
 
 🎯 **Especializado en:**
 - Arquitectura serverless con Supabase
