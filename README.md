@@ -42,8 +42,10 @@ Currently preparing to pursue a degree in **Computer Science** to deepen my know
 
 ## 🚀 Projects
 
-[![Repo](https://img.shields.io/badge/GitHub-TecniBus-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/tecnibus)<br>
-[![Repo](https://img.shields.io/badge/GitHub-magicDice-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/magic-dice)
+[![Repo](https://img.shields.io/badge/GitHub-TecniBus-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/tecnibus) &nbsp;&nbsp;
+[![Repo](https://img.shields.io/badge/GitHub-magicDice-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/magic-dice) &nbsp;&nbsp;
+[![Repo](https://img.shields.io/badge/GitHub-TaskFlow-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/taskflow) &nbsp;&nbsp;
+[![Repo](https://img.shields.io/badge/GitHub-CameraSwap-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/camera-swap)
 
 ---
 
