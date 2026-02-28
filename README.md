@@ -12,13 +12,14 @@
 <br/>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-F7F4A1?style=flat&logo=python&logoColor=black"/></a>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-FADE1A?style=flat&logo=javascript&logoColor=black"/>
 <br/>
 <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/></a>
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/></a>
-<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white"/></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></a>
 <br/>
 <img src="https://img.shields.io/badge/Claude_AI-6E56CF?style=flat&logo=claude&logoColor=white"/>
+<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white"/></a>
 
 </div>
 
@@ -26,17 +27,22 @@
 
 ## 👨‍💻 About Me
 
-Technical high school student in Information Technology, focused on **Mobile, Web, and Full-Stack development**.
+Technical high school student in Information Technology, focused on **Mobile, Web, and Full-Stack development**.<br><br>
+Currently preparing to pursue a degree in **Computer Science** to deepen my knowledge in software engineering and advanced computing.
 
 * **Logic First:** I enjoy solving complex problems and designing efficient algorithms to ensure clean, maintainable code.
 * **Web & Mobile:** From responsive web interfaces to high-performance mobile apps with React Native.
 * **AI Enthusiast:** I actively integrate AI tools (like Claude and Copilot) into my workflow to optimize development, refactor code, and stay at the forefront of technology.
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diego31-10&theme=tokyonight" alt="Profile Details" />
+</div>
+
 ---
 
 ## 🚀 Projects
 
-[![Repo](https://img.shields.io/badge/GitHub-TecniBus-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/tecnibus)
+[![Repo](https://img.shields.io/badge/GitHub-TecniBus-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/tecnibus)<br>
 [![Repo](https://img.shields.io/badge/GitHub-magicDice-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/magic-dice)
 
 ---
