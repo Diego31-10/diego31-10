@@ -7,15 +7,14 @@
 <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/></a>
 <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/></a>
-<br> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<br> 
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-F7F4A1?style=flat&logo=python&logoColor=black"/></a>
-<br> 
 <img src="https://img.shields.io/badge/JavaScript-FADE1A?style=flat&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/></a>
 <br> 
+<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/></a>
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></a>
 <br> 
@@ -46,7 +45,9 @@ Currently preparing to pursue a degree in **Computer Science** to deepen my know
 [![Repo](https://img.shields.io/badge/GitHub-TecniBus-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/tecnibus) &nbsp;&nbsp;
 [![Repo](https://img.shields.io/badge/GitHub-magicDice-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/magic-dice) &nbsp;&nbsp;
 [![Repo](https://img.shields.io/badge/GitHub-TaskFlow-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/taskflow) &nbsp;&nbsp;
-[![Repo](https://img.shields.io/badge/GitHub-CameraSwap-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/camera-swap)
+[![Repo](https://img.shields.io/badge/GitHub-Camera_Swap-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/camera-swap)
+[![Repo](https://img.shields.io/badge/GitHub-Pokedex-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/pokedex3e1)
+[![Repo](https://img.shields.io/badge/GitHub-Music_UI-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/music-ui)
 
 ---
 
