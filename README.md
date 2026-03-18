@@ -1,38 +1,43 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Hi+I'm+Diego!" alt="Diego" />
-  <br> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer" alt="Rol" />
- <br> 
-<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/></a>
-<a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<br> 
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=AI+%26+Automation+Developer;Building+Intelligent+Systems" alt="Role" />
+<br>
+
+<!-- AI & Automation -->
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"/>
+<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white"/></a>
+<a href="https://openclaw.com"><img src="https://img.shields.io/badge/OpenClaw-EB0817?style=flat&logo="/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-F7F4A1?style=flat&logo=python&logoColor=black"/></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
+<br>
+<!-- Languages -->
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-FADE1A?style=flat&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-<br> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<br>
+<!-- Stack -->
+<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/></a>
+<a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/></a>
 <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></a>
-<br> 
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=claude&logoColor=white"/>
-<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me  
+IT student focused on AI, automation, and intelligent systems — building software that can think, adapt, and operate autonomously.  
 
-Technical high school student in Information Technology, focused on **Mobile, Web, and Full-Stack development**.<br><br>
-Currently preparing to pursue a degree in **Computer Science** to deepen my knowledge in software engineering and advanced computing.
+Currently preparing to pursue a degree in Computer Science, with a long-term goal of specializing in Artificial Intelligence and Machine Learning through advanced studies in France.  
 
-* **Logic First:** I enjoy solving complex problems and designing efficient algorithms to ensure clean, maintainable code.
-* **Web & Mobile:** From responsive web interfaces to high-performance mobile apps with React Native.
-* **AI Enthusiast:** I actively integrate AI tools (like Claude and Copilot) into my workflow to optimize development, refactor code, and stay at the forefront of technology.
+Interested in developing systems that combine data, algorithms, and real-world context to create scalable and impactful solutions.
+
+- 🤖 **AI-First mindset:** I design solutions where LLMs and automation do the heavy lifting — from intelligent agents to automated pipelines.
+- ⚙️ **Automation over repetition:** I build tools that eliminate manual work, streamline processes, and scale without friction.
+- 🧠 **Full-Stack foundation:** Solid backend logic, clean APIs, and mobile/web interfaces when the project demands it.
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diego31-10&theme=tokyonight" alt="Profile Details" />
@@ -42,21 +47,20 @@ Currently preparing to pursue a degree in **Computer Science** to deepen my know
 
 ## 🚀 Projects
 
-[![Repo](https://img.shields.io/badge/GitHub-TecniBus-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/tecnibus) &nbsp;&nbsp;
-[![Repo](https://img.shields.io/badge/GitHub-magicDice-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/magic-dice) &nbsp;&nbsp;
-[![Repo](https://img.shields.io/badge/GitHub-TaskFlow-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/taskflow) &nbsp;&nbsp;
-[![Repo](https://img.shields.io/badge/GitHub-Camera_Swap-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/camera-swap)
-[![Repo](https://img.shields.io/badge/GitHub-Pokedex-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/pokedex3e1)
-[![Repo](https://img.shields.io/badge/GitHub-Music_UI-181717?style=for-the-badge&logo=github)](https://github.com/diego31-10/music-ui)
-
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**TecniBus**](https://github.com/diego31-10/tecnibus) | Real-time bus tracking system for school transport (Admin/Driver/Parent interface). | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| [**CityClaw**](https://github.com/diego31-10/cityclaw) | A physical smart city ecosystem where OpenClaw AI agents interact with real-world hardware. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=arduino&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-EB0817?style=flat-square&logo=&logoColor=black) |
+| [**DIY Home Server**](https://github.com/diego31-10/DIY-Home-Server) | Comprehensive guide and scripts to build a custom private cloud and AI server infrastructure. | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| [**Chrome Smart Ingest**](https://github.com/diego31-10/CS50x-Final-Project) | Extension that transforms passive file downloads into an intelligent, AI-organized management system. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![AI](https://img.shields.io/badge/Cowork-D97757?style=flat&logo=claude&logoColor=white) |
 ---
 
-## 📌 Focus Areas
+## 📌 What I Do
 
-- **Full-Stack Logic:** Building scalable backends and complex business logic.
-- **Frontend Mastery:** Creating seamless UI/UX for Web and Mobile platforms.
-- **AI-Driven Dev:** Leveraging LLMs for rapid prototyping and code auditing.
-- **Database Design:** Crafting secure and optimized schemas in PostgreSQL.
+- 🤖 **AI Integration** — Embed LLMs into real products; build agents that reason and act autonomously.
+- ⚙️ **Process Automation** — Design pipelines that replace manual work with reliable, repeatable systems.
+- 🔧 **Backend Engineering** — Scalable APIs, optimized database schemas, and solid business logic.
+- 📱 **Mobile & Web** — Cross-platform apps with React Native and modern web frontends when needed.
 
 ---
 
