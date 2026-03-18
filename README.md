@@ -2,12 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Hi+I'm+Diego!" alt="Diego" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=AI+%26+Automation+Engineer;Building+Intelligent+Systems" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=AI+%26+Automation+Developer;Building+Intelligent+Systems" alt="Role" />
 <br>
 
 <!-- AI & Automation -->
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=claude&logoColor=white"/>
-<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"/>
+<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white"/></a>
+<a href="https://openclaw.com"><img src="https://img.shields.io/badge/OpenClaw-EB0817?style=flat&logo="/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-F7F4A1?style=flat&logo=python&logoColor=black"/></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
 <br>
@@ -22,16 +23,17 @@
 <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/></a>
 <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me  
+IT student focused on AI, automation, and intelligent systems — building software that can think, adapt, and operate autonomously.  
 
-IT student focused on **AI integration and workflow automation** — building systems that think, adapt, and work on their own.
-Currently preparing to pursue a degree in **Computer Science** to deepen my expertise in intelligent systems and software engineering.
+Currently preparing to pursue a degree in Computer Science, with a long-term goal of specializing in Artificial Intelligence and Machine Learning through advanced studies in France.  
+
+Interested in developing systems that combine data, algorithms, and real-world context to create scalable and impactful solutions.
 
 - 🤖 **AI-First mindset:** I design solutions where LLMs and automation do the heavy lifting — from intelligent agents to automated pipelines.
 - ⚙️ **Automation over repetition:** I build tools that eliminate manual work, streamline processes, and scale without friction.
@@ -47,13 +49,10 @@ Currently preparing to pursue a degree in **Computer Science** to deepen my expe
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**TecniBus**](https://github.com/diego31-10/tecnibus) | Real-time bus tracking system with automated route management | React Native · Supabase · Node.js |
-| [**TaskFlow**](https://github.com/diego31-10/taskflow) | Task automation platform with intelligent workflow orchestration | TypeScript · PostgreSQL |
-| [**Camera Swap**](https://github.com/diego31-10/camera-swap) | AI-assisted camera control utility for mobile devices | React Native · Expo |
-| [**Pokedex**](https://github.com/diego31-10/pokedex3e1) | Data-driven Pokédex with dynamic API integration | JavaScript · REST API |
-| [**Magic Dice**](https://github.com/diego31-10/magic-dice) | Randomization engine with configurable logic rules | JavaScript |
-| [**Music UI**](https://github.com/diego31-10/music-ui) | Sleek music player interface focused on UX polish | React Native · Expo |
-
+| [**TecniBus**](https://github.com/diego31-10/tecnibus) | Real-time bus tracking system for school transport (Admin/Driver/Parent interface). | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| [**CityClaw**](https://github.com/diego31-10/cityclaw) | A physical smart city ecosystem where OpenClaw AI agents interact with real-world hardware. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=arduino&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-EB0817?style=flat-square&logo=&logoColor=black) |
+| [**DIY Home Server**](https://github.com/diego31-10/DIY-Home-Server) | Comprehensive guide and scripts to build a custom private cloud and AI server infrastructure. | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| [**Chrome Smart Ingest**](https://github.com/diego31-10/CS50x-Final-Project) | Extension that transforms passive file downloads into an intelligent, AI-organized management system. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![AI](https://img.shields.io/badge/Cowork-D97757?style=flat&logo=claude&logoColor=white) |
 ---
 
 ## 📌 What I Do
