@@ -28,16 +28,12 @@
 
 ---
 
-### 👨‍💻 About Me  
-IT student focused on AI, automation, and intelligent systems — building software that can think, adapt, and operate autonomously.  
+## 👨‍💻 About Me  
+- IT student focused on AI, automation, and intelligent systems — building software that can think, adapt, and operate autonomously.  
 
-Currently preparing to pursue a degree in Computer Science, with a long-term goal of specializing in Artificial Intelligence and Machine Learning through advanced studies in France.  
+- Currently preparing to pursue a degree in Computer Science, with a long-term goal of specializing in Artificial Intelligence and Machine Learning through advanced studies in France.  
 
-Interested in developing systems that combine data, algorithms, and real-world context to create scalable and impactful solutions.
-
-- 🤖 **AI-First mindset:** I design solutions where LLMs and automation do the heavy lifting — from intelligent agents to automated pipelines.
-- ⚙️ **Automation over repetition:** I build tools that eliminate manual work, streamline processes, and scale without friction.
-- 🧠 **Full-Stack foundation:** Solid backend logic, clean APIs, and mobile/web interfaces when the project demands it.
+- Interested in developing systems that combine data, algorithms, and real-world context to create scalable and impactful solutions.
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diego31-10&theme=tokyonight" alt="Profile Details" />
@@ -45,6 +41,12 @@ Interested in developing systems that combine data, algorithms, and real-world c
 
 ---
 
+## 📌 What I Do
+
+- 🤖 **AI Integration** — Embed LLMs into real products; build agents that reason and act autonomously.
+- ⚙️ **Process Automation** — Design pipelines that replace manual work with reliable, repeatable systems.
+- 🧠 **Full-Stack foundation:** Solid backend logic, clean APIs, and mobile/web interfaces when the project demands it.
+---
 ## 🚀 Projects
 
 | Project | Description | Stack |
@@ -53,15 +55,6 @@ Interested in developing systems that combine data, algorithms, and real-world c
 | [**CityClaw**](https://github.com/diego31-10/cityclaw) | A physical smart city ecosystem where OpenClaw AI agents interact with real-world hardware. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=arduino&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-EB0817?style=flat-square&logo=&logoColor=black) |
 | [**DIY Home Server**](https://github.com/diego31-10/DIY-Home-Server) | Comprehensive guide and scripts to build a custom private cloud and AI server infrastructure. | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | [**Chrome Smart Ingest**](https://github.com/diego31-10/CS50x-Final-Project) | Extension that transforms passive file downloads into an intelligent, AI-organized management system. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![AI](https://img.shields.io/badge/Cowork-D97757?style=flat&logo=claude&logoColor=white) |
----
-
-## 📌 What I Do
-
-- 🤖 **AI Integration** — Embed LLMs into real products; build agents that reason and act autonomously.
-- ⚙️ **Process Automation** — Design pipelines that replace manual work with reliable, repeatable systems.
-- 🔧 **Backend Engineering** — Scalable APIs, optimized database schemas, and solid business logic.
-- 📱 **Mobile & Web** — Cross-platform apps with React Native and modern web frontends when needed.
-
 ---
 
 <div align="center">
