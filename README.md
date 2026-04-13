@@ -31,7 +31,7 @@
 ## 👨‍💻 About Me  
 - IT student focused on AI, automation, and intelligent systems — building software that can think, adapt, and operate autonomously.  
 
-- Currently preparing to pursue a degree in Computer Science, with a long-term goal of specializing in Artificial Intelligence and Machine Learning through advanced studies in France.  
+- Currently preparing to pursue a degree in Data Science & AI.
 
 - Interested in developing systems that combine data, algorithms, and real-world context to create scalable and impactful solutions.
 
@@ -52,7 +52,8 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**TecniBus**](https://github.com/diego31-10/tecnibus) | Real-time bus tracking system for school transport (Admin/Driver/Parent interface). | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| [**AgenCity**](https://github.com/diego31-10/clawcity) | A physical smart city ecosystem where AI agents interact with real-world hardware. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=arduino&logoColor=white) |
+| [**AgentHQ**](https://github.com/diego31-10/agenthq) | A physical smart office ecosystem where AI agents interact with real-world hardware. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=arduino&logoColor=white) |
+| [**CC.md**](https://github.com/diego31-10/agenthq) | **The definitive Markdown-driven memory & workflow layer for Claude Code..** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![AI](https://img.shields.io/badge/ClaudeCode-D97757?style=flat&logo=claude&logoColor=white) | |
 | [**OpenClaw TUI**](https://github.com/diego31-10/openclaw-tui) | A custom OpenClaw TUI to make things easier. | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-EB0817?style=flat-square&logo=&logoColor=black) |
 | [**DIY Home Server**](https://github.com/diego31-10/DIY-Home-Server) | Comprehensive guide and scripts to build a custom private cloud and AI server infrastructure. | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | [**Chrome Smart Ingest**](https://github.com/diego31-10/CS50x-Final-Project) | Extension that transforms passive file downloads into an intelligent, AI-organized management system. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![AI](https://img.shields.io/badge/Cowork-D97757?style=flat&logo=claude&logoColor=white) |
